@@ -17,7 +17,7 @@ public class SearchAlgorithms
      * @param searchValue: the given value to search for
      * @return the position within the array of the value, if value not present return -1
      */
-    public static int linearSearch(int[] array, int searchValue) {
+    public int linearSearch(int[] array, int searchValue) {
         //TODO: implement
         return -1;
     }
@@ -29,7 +29,7 @@ public class SearchAlgorithms
      * @param searchValue: the given value to search for
      * @return the position within the array of the value, if value not present return -1
      */
-    public static int binarySearch(int[] array, int searchValue) {
+    public int binarySearch(int[] array, int searchValue) {
         //TODO: implement
         return -1;
     }
